@@ -1,0 +1,158 @@
+.ve-block { position: relative; }
+.cover-float.ve-block { position: absolute; }
+.ve-block:hover,
+.ve-block:focus-within { outline: 2px solid #3d8f4a; outline-offset: 6px; }
+.ve-bar, .ve-add {
+  display: none;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  background: #14352a;
+  color: #fff;
+  padding: 6px 8px;
+  border-radius: 10px;
+  z-index: 60;
+}
+.ve-bar[data-dock] {
+  display: flex;
+  position: static;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+  transform: none;
+  width: auto;
+  max-width: none;
+  border-radius: 0;
+  z-index: 80;
+  justify-content: center;
+  padding: 10px 14px 12px;
+  box-shadow: none;
+}
+html.ve-frame, html.ve-frame body {
+  height: 100%;
+  min-height: 0 !important;
+  overflow: hidden;
+}
+html.ve-frame body {
+  display: flex;
+  flex-direction: column;
+}
+#ve-scroll { flex: 1; min-height: 0; overflow: auto; position: relative; }
+#ve-dock { flex: none; background: #14352a; }
+#ve-dock:empty { display: none; }
+#ve-dock .ve-add, #ve-dock .ve-bar {
+  position: static;
+  left: auto;
+  right: auto;
+  bottom: auto;
+  transform: none;
+  width: 100%;
+  max-width: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+#ve-dock .ve-bar { display: flex; }
+.ve-block.is-picked:not(.cover-float) { outline: 2px solid #3d8f4a; outline-offset: 6px; }
+.ve-space {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+}
+.ve-space input[type="number"] { width: 48px; }
+.ve-bar label, .ve-add label, .ve-alt {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: #fff;
+  font-size: 12px;
+}
+.ve-bar select, .ve-bar input, .ve-add select, .ve-alt input {
+  width: auto;
+  font-size: 12px;
+  color: #1d2b24;
+  background: #fff;
+  border: 0;
+  border-radius: 6px;
+  padding: 4px 6px;
+}
+.ve-bar input[type="number"] { width: 64px; }
+.ve-bar input[type="color"] { width: 36px; height: 28px; padding: 2px; }
+.ve-bar button, .ve-add button, .ve-x, .ve-upload {
+  background: #fff;
+  color: #1d2b24;
+  border: 0;
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.ve-resize {
+  position: absolute;
+  right: 2px;
+  bottom: 2px;
+  width: 18px;
+  height: 18px;
+  padding: 0;
+  border: 0;
+  border-radius: 4px;
+  background: #14352a;
+  cursor: nwse-resize;
+  z-index: 6;
+}
+.ve-resize::before {
+  content: "";
+  position: absolute;
+  right: 3px;
+  bottom: 3px;
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+}
+.ve-add {
+  display: flex;
+  position: static;
+  box-shadow: none;
+}
+.ve-add[hidden] { display: none !important; }
+.ve-x { position: absolute; top: 8px; right: 8px; display: none; z-index: 5; }
+.card, .partner { position: relative; }
+.card:hover .ve-x, .partner:hover .ve-x, .member:hover .ve-x { display: block; }
+.member-note { margin: 0 0 14px; color: #1f4a37; font-size: 14px; }
+.member-edit { display: grid; gap: 6px; margin-top: 10px; text-align: left; }
+.member-edit label { display: grid; gap: 3px; font-size: 13px; color: #445; }
+.exp-row { display: flex; gap: 6px; align-items: end; }
+.exp-row label { flex: 1; }
+.exp-row button { min-width: 36px; height: 34px; }
+.member-edit input { width: 100%; border: 1px solid #cfd6cc; border-radius: 8px; padding: 6px 8px; }
+.member-edit button { justify-self: start; }
+.ve-upload {
+  display: grid;
+  place-items: center;
+  width: min(100%, 640px);
+  min-height: 180px;
+  margin: 12px auto;
+  border: 2px dashed #7dbb45;
+  background: #f6f7f4;
+}
+.ve-alt { margin: 8px auto; width: min(640px, 100%); color: #333; }
+.page-title h1 span.ve-title {
+  display: inline;
+  margin: 0;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+}
+.ve-en:empty::before { content: "英文"; opacity: 0.45; }
+[contenteditable="true"]:focus { box-shadow: inset 0 0 0 1px #7dbb45; }
+.cover-float { cursor: grab; z-index: 6; }
+.cover-float.ve-block:hover,
+.cover-float.ve-block:focus-within { outline: none; }
+.ve-bar[data-dock] { cursor: default; }
+.enter-home-btn:focus {
+  outline: none;
+  box-shadow: inset 0 1px 1px rgba(255,255,255,0.25), 0 4px 16px rgba(35,45,30,0.18);
+}

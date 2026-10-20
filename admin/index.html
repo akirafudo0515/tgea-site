@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>網站後台</title>
+  <link rel="stylesheet" href="/admin/admin.css?v=coversize">
+</head>
+<body>
+  <section id="login" class="login">
+    <form id="loginForm">
+      <p class="brand">台北市綠能協會</p>
+      <h1>網站後台</h1>
+      <label>密碼<input id="password" type="password" autocomplete="current-password" required></label>
+      <button type="submit">登入</button>
+      <p id="loginError" class="error"></p>
+      <p class="hint">第一次使用的密碼是 admin123，登入後可在「網站設定」更改。</p>
+    </form>
+  </section>
+
+  <div id="notice" class="notice" hidden>
+    <div class="notice-card" role="dialog" aria-modal="true" aria-labelledby="noticeText">
+      <p id="noticeText">已修改完成</p>
+      <button type="button" id="noticeOk" class="primary">確認</button>
+    </div>
+  </div>
+
+  <div id="cropper" class="cropper" hidden>
+    <div class="crop-card" role="dialog" aria-modal="true" aria-labelledby="cropTitle">
+      <p id="cropTitle">這個框就是封面的實際大小。拖曳圖片、拉桿放大，調好按確認</p>
+      <div class="crop-frame" id="cropFrame"><img id="cropImg" alt=""></div>
+      <label>放大<input id="cropZoom" type="range" min="1" max="3" step="0.05" value="1"></label>
+      <div class="crop-actions"><button type="button" id="cropOk" class="primary">確認</button><button type="button" id="cropCancel" class="ghost-btn">取消</button></div>
+    </div>
+  </div>
+
+  <div id="app" hidden>
+    <aside class="side">
+      <p class="brand">後台</p>
+      <button type="button" data-tab="pages">分頁</button>
+      <button type="button" data-tab="albums">相簿</button>
+      <button type="button" data-tab="news">最新消息</button>
+      <button type="button" data-tab="settings">網站設定</button>
+      <a href="/" target="_blank">看網站</a>
+      <button type="button" id="logout" class="ghost">登出</button>
+    </aside>
+    <main id="workspace"></main>
+  </div>
+  <script src="/admin/admin.js?v=exp3"></script>
+</body>
+</html>

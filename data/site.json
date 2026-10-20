@@ -1,0 +1,2177 @@
+{
+  "settings": {
+    "siteName": "台北市綠能協會",
+    "englishName": "TAIPEI GREEN ENERGY ASSOCIATION",
+    "logo": "images/logo.png",
+    "phone": "+886 2 2718 1688",
+    "email": "tge-service@gmail.com",
+    "address": "台北市萬華區和平西路三段70號2樓",
+    "addressEn": "2F., No.70, Sec. 3, Heping W. Rd., Wanhua Dist., Taipei City 108020, Taiwan (R.O.C.)",
+    "copyright": "Copyright © 臺北市綠能協會 All Rights Reserved.",
+    "facebook": "#",
+    "instagram": "#",
+    "mapQuery": "台北市萬華區和平西路三段70號"
+  },
+  "newsCategories": [
+    {
+      "id": "announce",
+      "name": "協會公告"
+    },
+    {
+      "id": "event",
+      "name": "活動訊息"
+    },
+    {
+      "id": "media",
+      "name": "媒體報導"
+    }
+  ],
+  "albumCategories": [
+    {
+      "id": "affairs",
+      "name": "會務花絮"
+    },
+    {
+      "id": "event",
+      "name": "活動寫真"
+    },
+    {
+      "id": "talk",
+      "name": "講座研習"
+    }
+  ],
+  "pages": [
+    {
+      "id": "index",
+      "slug": "index",
+      "title": "封面",
+      "navLabel": "封面",
+      "en": "",
+      "showInNav": false,
+      "parentId": "",
+      "layout": "cover",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "cover",
+          "type": "cover",
+          "style": {
+            "marginTop": "30"
+          },
+          "data": {
+            "background": "images/cover-desktop.png",
+            "backgroundMobile": "images/cover-mobile.png",
+            "buttonText": "進入主頁",
+            "buttonHref": "about.html",
+            "title": "台北市綠能協會",
+            "subtitle": "TAIPEI GREEN ENERGY ASSOCIATION",
+            "copyright": "Copyright © 2025",
+            "x": 50,
+            "y": 96.5
+          },
+          "mobile": {
+            "style": {},
+            "data": {
+              "x": 51.3,
+              "y": 76.1
+            }
+          }
+        },
+        {
+          "id": "bmva0035iipx",
+          "type": "button",
+          "style": {},
+          "data": {
+            "text": "進入主頁",
+            "href": "about.html",
+            "x": 50,
+            "y": 84.4
+          },
+          "mobile": {
+            "style": {},
+            "data": {
+              "x": 50,
+              "y": 69.2
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "slug": "about",
+      "title": "認識本會",
+      "navLabel": "認識本會",
+      "en": "About TGEA",
+      "showInNav": true,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {
+        "marginBottom": "10"
+      },
+      "blocks": [
+        {
+          "id": "a1",
+          "type": "heading",
+          "style": {
+            "fontSize": "",
+            "marginTop": "10",
+            "marginBottom": "10"
+          },
+          "data": {
+            "text": "緣起"
+          }
+        },
+        {
+          "id": "a2",
+          "type": "text",
+          "style": {
+            "marginLeft": "0",
+            "marginRight": "0",
+            "fontSize": "16"
+          },
+          "data": {
+            "text": "全球暖化氣溫上升引發的極端氣候，造成世界各地災情不斷與龐大的經濟損失，降低碳排放量已刻不容緩，也是全球各國共同面對的課題。\n而發展與推廣綠色能源以及研發創造新能源，是目前需要解決的目標。\n\n【臺北市綠能協會】是一個全國性的非營利事業組織（NPO），\n以提升綠能發展的認知觀念、推動低碳排放、創造永續環境，並結合產官學專家爭取公共政策參與，為台灣下一代貢獻力量。\n\n本會結合國內綠電發展相關領域企業以及學術研究機構之專業人員，提供政府綠電能源政策建言，促進國內綠能應用與技術服務。\n並不定期舉辦綠電發展與 ESG 永續系列講座，與國內外產業專家一起探討綠色能源永續發展的核心價值。"
+          }
+        },
+        {
+          "id": "a3",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "20"
+          },
+          "data": {
+            "text": "任務 / Mission"
+          }
+        },
+        {
+          "id": "a4",
+          "type": "image",
+          "style": {
+            "textAlign": "center"
+          },
+          "data": {
+            "src": "images/about.jpg",
+            "alt": "本會任務",
+            "shape": "normal"
+          }
+        },
+        {
+          "id": "a5",
+          "type": "text",
+          "style": {
+            "fontSize": "16"
+          },
+          "data": {
+            "text": "（一）研議綠能發電產業推廣策略，以提供政府施政及產業界發展參考。\n（二）結合產學研發技術推動綠色能源發展，促進國際交流。\n（三）建立綠色能源與企業永續資訊服務平台。\n（四）參與政府部會產業技術認證測試制度之推動。\n（五）辦理國內外參訪考察研習活動之規劃執行。\n（六）農漁光電、土地併聯、環評等法規內容交流溝通。\n（七）增進社會大眾對綠色能源發電科技及環境生態的認識與應用。\n（八）其他綠能相關學術研究之產官學綜合研習推廣業務辦理。"
+          }
+        },
+        {
+          "id": "a6",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "20"
+          },
+          "data": {
+            "text": "合作單位 / Cooperative unit"
+          }
+        },
+        {
+          "id": "a7",
+          "type": "logos",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "src": "images/team1.jpg",
+                "name": "太陽光電能源科技股份有限公司\nBIG SUN GROUP"
+              },
+              {
+                "src": "images/team2.jpg",
+                "name": "地熱發電合作"
+              },
+              {
+                "src": "images/team3.jpg",
+                "name": "StartUs Insights"
+              },
+              {
+                "src": "images/team4.jpg",
+                "name": "台灣太陽光電產業協會"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "charter",
+      "slug": "charter",
+      "title": "協會組織章程",
+      "navLabel": "協會組織章程",
+      "en": "ORG Articles",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "c1",
+          "type": "paper",
+          "style": {},
+          "data": {
+            "banner": "協會組織章程",
+            "body": "第一章、總則\n\n第一條、本會名稱為台北市綠能協會，以下簡稱為本會，英文為 TAIPEI GREEN ENERGY ASSOCIATION，簡稱 TGEA。\n\n第二條、本會為依據人民團體法設立之社會團體，非以營利為目的。\n\n第三條、本會以發展綠能教育、提升節能減碳、倡導綠色體驗、推廣地球義工為宗旨。\n\n第四條、本會以台北市行政區域為組織區域。\n\n第五條、本會會址設於台北市萬華區和平西路三段70號2樓。\n\n第六條、本會任務如下：\n一、協助政府機關辦理節能減碳政策之宣導活動。\n二、結合民間企業宣傳節能減碳與環境保護之重要性。\n三、定期舉辦或協助邀請辦理綠色能源之文藝性、公益性活動。\n四、推廣防止地球暖化各項減碳使用之認知。\n五、協助國內綠色產業建立品牌形象、開創商機。\n六、配合政府推廣節能減碳政策，促進產官學交流活動。\n七、協助提升綠能活動，以循環碳經濟幫助企業邁向新里程碑。\n\n第二章、會員\n\n第七條、本會會員分為下列三種：\n一、個人會員：凡贊同本會宗旨、年滿二十歲、設籍居住台北市或於台北市工作，填具入會申請書，經理事會通過並繳納會費後為個人會員。\n二、團體會員：凡於台北市登記有案、贊同本會宗旨之機構或團體，填具入會申請書，經理事會通過並繳納會費後為團體會員。團體會員得派代表行使會員權利。\n三、贊助會員：凡認同本會宗旨並對會務推廣有助益者，經理事會通過並繳交會費後為贊助會員。學生得依規定以學生會員入會。\n\n第八條、會員或會員代表有違法令、章程或不遵守會員大會決議時，得經理事會決議予以警告或停權；其危害團體情節重大者，得經會員大會決議予以除名。\n\n第九條、會員有下列情形之一者，已繳納之各項會費不予退還：一、喪失會員資格者。二、經會員大會決議除名者。\n\n第十條、會員享有表決權、選舉權、被選舉權與罷免權。未繳納當年常年會費而被停權者，不具上述權利。\n\n第十一條、會員有遵守本會章程、決議及繳納會費之義務。\n\n第十二條、會員得以書面具名理由向本會申請退會，並於會計年度結束時生效，已繳納之各項費用不予退還。\n\n第三章、組織與職權\n\n第十三條、本會以會員大會為最高權力機構，理事會為執行機構，監事會為監察機構。\n\n第十四條、會員大會職權包括訂定與變更章程、選舉及罷免理監事、決議會費及捐款、決議年度工作計畫與預算決算，以及其他與會員權利義務有關之重大事項。\n\n第十五條、本會置理事、監事，由會員選舉之，分別成立理事會、監事會，並置候補理監事，遇缺時依序遞補。\n\n第十六條、理事會職權包括審定會員資格、選舉及罷免常務理事與理事長、聘免工作人員、擬定年度工作計畫及預算決算，以及其他應執行事項。\n\n第十七條、理事會置常務理事，並由常務理事互選一人為理事長。理事長對內綜理會務，對外代表本會。\n\n第十八條、監事會監察理事會工作之執行、審核年度決算，並選舉常務監事。\n\n第十九條至第二十七條、理監事均為無給職，任期、解任、工作人員設置、委員會及名譽職，依本章程及主管機關相關規定辦理。\n\n第四章、會議\n\n第二十八條、會員大會分定期會議與臨時會議，由理事長召集。定期會議每年召開一次。\n\n第二十九條、會員不能出席會員大會時，得以書面委託其他會員代理，每一會員以代理一人為限。\n\n第三十條、會員大會之決議，以會員過半數之出席、出席人數過半數之同意行之。章程變更、會員除名、理監事罷免、財產處分及本會解散等事項，以出席人數三分之二以上同意行之。\n\n第三十一條至第三十三條、理事會、監事會定期召開，會議通知、出缺席及紀錄報備，依本章程辦理。\n\n第五章、經費及會計\n\n第三十四條、本會經費來源包括入會費、常年會費、會員捐款、委託收益、基金孳息及其他收入。\n\n第三十五條、本會會計年度自每年一月一日起至十二月三十一日止。\n\n第三十六條、本會於會計年度開始前編造工作計畫及預算，於年度終了後編造工作報告及決算，提會員大會通過後報主管機關核備。\n\n第三十七條、本會解散後，剩餘財產歸屬所在地之地方自治團體或主管機關指定之機關團體。\n\n第六章、附則\n\n第三十八條、本章程未規定事項，悉依有關法令規定辦理。\n\n第三十九條、本會辦事細則由理事會訂定之。\n\n第四十條、本章程經會員大會通過，報主管機關核備後施行，修正時亦同。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chairman",
+      "slug": "chairman",
+      "title": "現任理事長",
+      "navLabel": "現任理事長",
+      "en": "",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "panel",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "h1",
+          "type": "image",
+          "style": {},
+          "data": {
+            "src": "images/chairman.jpg",
+            "alt": "理事長 高琦",
+            "shape": "circle"
+          }
+        },
+        {
+          "id": "h2",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "10"
+          },
+          "data": {
+            "text": "現任"
+          }
+        },
+        {
+          "id": "h3",
+          "type": "text",
+          "style": {},
+          "data": {
+            "text": "臺北市綠能協會 理事長\n台灣女企業家協會 榮譽理事長\n中華羅梁文化藝術協會 副主席"
+          }
+        },
+        {
+          "id": "h4",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "10"
+          },
+          "data": {
+            "text": "現 / 經歷"
+          }
+        },
+        {
+          "id": "h5",
+          "type": "text",
+          "style": {},
+          "data": {
+            "text": "墨玉資本股份有限公司 副董事長\n紫龍投資控股有限公司 董事長\n觀享人文有限公司 董事長"
+          }
+        },
+        {
+          "id": "h6",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "10"
+          },
+          "data": {
+            "text": "理事長的話"
+          }
+        },
+        {
+          "id": "h7",
+          "type": "text",
+          "style": {},
+          "data": {
+            "text": "當你心中有夢想，即使閉上雙眼一樣看得到遠景。\n我們團隊秉持優良傳統「盡全力就是！」\n\n推動綠能產業發展，用科技創新，實踐綠色經濟，與全世界接軌。我們交一輩子愛地球的好朋友。為後代留下美好地球！\n\n為了永續的環境，「臺北市綠能協會」之所以成立的一個重要原因，是喚醒大眾的淨零排放意識。\n協會由企業、學術單位所組成，並訂立政策擬定、循環經濟、智慧綠能的目標，期盼能為台灣的低碳綠色能源盡一份心力。\n\n祝福本會會務昌隆，諸位會員先進平安如意。\n\n理事長 高琦 敬上"
+          }
+        }
+      ]
+    },
+    {
+      "id": "advisors",
+      "slug": "advisors",
+      "title": "榮譽顧問",
+      "navLabel": "榮譽顧問",
+      "en": "Honorary Advisors",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "adv1",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "榮譽顧問",
+                "name": "沈世宏博士",
+                "src": "",
+                "lines": [
+                  "前行政院環境保護署署長"
+                ]
+              },
+              {
+                "role": "榮譽顧問",
+                "name": "蔣本基博士",
+                "src": "",
+                "lines": [
+                  "台大環工所終身榮譽特聘教授"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "board",
+      "slug": "board",
+      "title": "理事會",
+      "navLabel": "理事會",
+      "en": "Board",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "bd1",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "理事長",
+                "name": "高琦",
+                "src": "images/chairman.jpg",
+                "lines": [
+                  "西安交大-藝術金融博士",
+                  " New York Institute of Technology - communication art master",
+                  "台灣榮譽理事長"
+                ]
+              },
+              {
+                "role": "副理事長",
+                "name": "陳凱程",
+                "src": "uploads/mvachqsc-701503ff.jpeg",
+                "lines": [
+                  "美國田納西州立曼菲斯大學 企管碩士",
+                  "ACNielsen 尼爾森行銷研究公司 零售服務經理",
+                  "Energizer Taiwan 勁量電池台灣 通路行銷經理",
+                  "New Zealand Milk Products 安佳(遠東)台灣分公司 業務發展經理",
+                  "Diageo Taiwan 帝亞吉歐台灣分公司 商機發展經理",
+                  "台中維新醫院 董事"
+                ]
+              },
+              {
+                "role": "常務理事",
+                "name": "黃世榮",
+                "src": "",
+                "lines": [
+                  "清大科技管理研究所碩士",
+                  "中興大學法律系學士",
+                  "台北101法務長",
+                  "源興居生技公司總經理",
+                  "天荷生化科技集團法務長",
+                  "中律聯合律師事務所"
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "陳昀利",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "賴玉珍",
+                "src": "",
+                "lines": [
+                  "僑委會委員"
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "林柏宏",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "林昕",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "蘇守品",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              },
+              {
+                "role": "理事",
+                "name": "李宸瑝",
+                "src": "",
+                "lines": [
+                  "裕盛發實業創辦人",
+                  "安東尼奧咖啡創辦人",
+                  "立法院康園餐廳董事長特助",
+                  "德國萊因碳中和查證員"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "supervisors",
+      "slug": "supervisors",
+      "title": "監事會",
+      "navLabel": "監事會",
+      "en": "Supervisors",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "sv1",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "監事",
+                "name": "施宇信",
+                "src": "uploads/mvack5sn-8662bd9d.jpeg",
+                "lines": [
+                  "國立中興大學地政系",
+                  "University of Northampton MBA",
+                  "永續發展扶輪社主委",
+                  "高宇通訊總經理"
+                ]
+              },
+              {
+                "role": "監事",
+                "name": "劉琪章",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              },
+              {
+                "role": "監事",
+                "name": "陳修成",
+                "src": "",
+                "lines": [
+                  "興橋科股份有限公司董事長",
+                  "優植森態股份有限公司負責人"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "committees",
+      "slug": "committees",
+      "title": "委員會",
+      "navLabel": "委員會",
+      "en": "Committees",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "cm1",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "產業政策委員會"
+          }
+        },
+        {
+          "id": "cm1m",
+          "type": "members",
+          "style": {
+            "textAlign": "center"
+          },
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "黃尉桓",
+                "src": "",
+                "lines": [
+                  "威智科技創辦人",
+                  "台大材料所博士",
+                  "中央大學EMBA"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "陳德利",
+                "src": "",
+                "lines": [
+                  "長江國際專利法律事務所主任",
+                  "大同大學生物科技所碩士",
+                  "台科大專利所碩士"
+                ]
+              }
+            ]
+          },
+          "mobile": {
+            "style": {},
+            "data": {}
+          }
+        },
+        {
+          "id": "cm2",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "國際交流委員會"
+          }
+        },
+        {
+          "id": "cm2m",
+          "type": "members",
+          "style": {
+            "textAlign": "center"
+          },
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "郭俞麟",
+                "src": "",
+                "lines": [
+                  "台灣科技大學主秘",
+                  "台科大機械系系主任"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "陳修成",
+                "src": "",
+                "lines": [
+                  "興橋科股份有限公司董事長",
+                  "優植森態股份有限公司負責人"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "cm3",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "綠能創新發展委員會"
+          }
+        },
+        {
+          "id": "cm3m",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "蘇家弘",
+                "src": "",
+                "lines": [
+                  "明志科大化工系系主任",
+                  "史丹福大學評比全球研究學者前2%",
+                  "清華大學化工博士"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "宋沛倫",
+                "src": "",
+                "lines": [
+                  "沛倫設計總監",
+                  "台大機械所碩士"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "cm4",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "ESG委員會"
+          }
+        },
+        {
+          "id": "cm4m",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "林心恬",
+                "src": "",
+                "lines": [
+                  "台大機械系教授",
+                  "京都大學能源科學研究所博士",
+                  "台灣生命週期評估學會理事長"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "張維倫",
+                "src": "",
+                "lines": [
+                  "易可吸紙品市場策略副總"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "cm5",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "永續青年領袖委員會"
+          }
+        },
+        {
+          "id": "cm5m",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "賴玉珍",
+                "src": "",
+                "lines": [
+                  "僑委會委員"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "羅章維",
+                "src": "",
+                "lines": [
+                  "高利科技董事長特助"
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "id": "cm6",
+          "type": "heading",
+          "style": {
+            "marginTop": "10",
+            "marginBottom": "16"
+          },
+          "data": {
+            "text": "淨零碳盤查委員會"
+          }
+        },
+        {
+          "id": "cm6m",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "召集人",
+                "name": "李宸瑝",
+                "src": "",
+                "lines": [
+                  "裕盛發實業創辦人",
+                  "安東尼奧咖啡創辦人",
+                  "立法院康園餐廳董事長特助",
+                  "德國萊因碳中和查證員"
+                ]
+              },
+              {
+                "role": "副召集人",
+                "name": "黃柏諺",
+                "src": "",
+                "lines": [
+                  "北科大環管所碩士",
+                  "環興工程顧問股份有限公司"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "secretariat",
+      "slug": "secretariat",
+      "title": "秘書處",
+      "navLabel": "秘書處",
+      "en": "Secretariat",
+      "showInNav": true,
+      "parentId": "about",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "se1",
+          "type": "members",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "role": "秘書長",
+                "name": "許景翔",
+                "src": "",
+                "lines": [
+                  "台灣大學材料科學與工程所博士",
+                  "優勝奈米科技股份有限公司創辦人兼董事長",
+                  "台灣化學產業協會（TCIA)理事、ESG召集人",
+                  "中華民國第五十二屆十大傑出青年"
+                ]
+              },
+              {
+                "role": "秘書",
+                "name": "王毓宏",
+                "src": "",
+                "lines": [
+                  ""
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "service",
+      "slug": "service",
+      "title": "服務項目",
+      "navLabel": "服務項目",
+      "en": "Service",
+      "showInNav": true,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {
+        "marginBottom": "10"
+      },
+      "blocks": [
+        {
+          "id": "s2",
+          "type": "cards",
+          "style": {
+            "marginTop": "10"
+          },
+          "data": {
+            "items": [
+              {
+                "title": "政策建言",
+                "text": "研議綠能發電產業推廣策略，提供政府施政及產業界發展參考。"
+              },
+              {
+                "title": "產學交流",
+                "text": "結合產學研發技術，推動綠色能源發展並促進國際交流。"
+              },
+              {
+                "title": "資訊平台",
+                "text": "建立綠色能源與企業永續資訊服務平台。"
+              },
+              {
+                "title": "技術認證",
+                "text": "參與政府部會產業技術認證測試制度之推動。"
+              },
+              {
+                "title": "參訪研習",
+                "text": "辦理國內外參訪、考察與研習活動。"
+              },
+              {
+                "title": "法規溝通",
+                "text": "農漁光電、土地併聯、環評等法規內容交流。"
+              },
+              {
+                "title": "公眾教育",
+                "text": "增進社會大眾對綠能科技及環境生態的認識與應用。"
+              },
+              {
+                "title": "講座推廣",
+                "text": "辦理綠能與 ESG 永續系列講座及產官學研習。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "news",
+      "slug": "news",
+      "title": "最新消息",
+      "navLabel": "最新消息",
+      "en": "News",
+      "showInNav": true,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "nlist",
+          "type": "news-list",
+          "style": {},
+          "data": {}
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "slug": "events",
+      "title": "活動花絮",
+      "navLabel": "活動花絮",
+      "en": "Event Photos",
+      "showInNav": true,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "alist",
+          "type": "album-list",
+          "style": {},
+          "data": {}
+        }
+      ]
+    },
+    {
+      "id": "partners",
+      "slug": "partners",
+      "title": "全球夥伴",
+      "navLabel": "全球夥伴",
+      "en": "Global Partners",
+      "showInNav": false,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "p1",
+          "type": "logos",
+          "style": {},
+          "data": {
+            "items": [
+              {
+                "src": "images/team1.jpg",
+                "name": "太陽光電能源科技股份有限公司\nBIG SUN GROUP"
+              },
+              {
+                "src": "images/team2.jpg",
+                "name": "地熱發電合作"
+              },
+              {
+                "src": "images/team3.jpg",
+                "name": "StartUs Insights"
+              },
+              {
+                "src": "images/team4.jpg",
+                "name": "台灣太陽光電產業協會"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "slug": "contact",
+      "title": "聯絡我們",
+      "navLabel": "聯絡我們",
+      "en": "Contact us",
+      "showInNav": true,
+      "parentId": "",
+      "layout": "inner",
+      "titleStyle": {},
+      "blocks": [
+        {
+          "id": "k1",
+          "type": "contact",
+          "style": {},
+          "data": {
+            "asideTitle": "台北市綠能協會",
+            "aside": "聯絡人：秘書長 許景翔\n聯絡電話：0919-502-518\nemail：kennyhsu.uw@gmail.com\n\n聯絡人：秘書 王毓宏 Akira\n聯絡電話：0981-283-429\nemail：akirafudo0515@gmail.com\n\n會址：台北市萬華區和平西路三段70號2樓\n信箱：tge-service@gmail.com"
+          },
+          "mobile": {
+            "style": {},
+            "data": {
+              "aside": "聯絡人：副理事長　陳凱程\n聯絡電話：0935-068-717\n\n聯絡人：秘書　王毓宏 Akira\n聯絡電話：0981-283-429\n\n會址：台北市萬華區和平西路三段70號2樓\n電話：+886 2 2718 1688\n信箱：tpegreenenergy@gmail.com"
+            }
+          }
+        },
+        {
+          "id": "k2",
+          "type": "map",
+          "style": {},
+          "data": {
+            "query": "台北市萬華區和平西路三段70號"
+          }
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "id": "nmvaefw1yc61",
+      "category": "announce",
+      "date": "2026/8/27",
+      "image": "",
+      "title": "115年度全國性社會團體經營管理研習基礎班  ",
+      "summary": "",
+      "body": ""
+    },
+    {
+      "id": "nmvae7gax5kb",
+      "category": "announce",
+      "date": "2026/6/30",
+      "image": "",
+      "title": " 「台北市綠能協會」第一次會員大會",
+      "summary": "會議時間：2026/06/30（二）14:00\n地址：台北市中山區南京東路二段218號",
+      "body": "敬愛的會員，您好：\n感謝您對台北市綠能協會的支持與付出，與我們攜手推動綠色能源的發展與永續願景。\n在此誠摯地邀請您參加：\n「2026年台北市綠能協會會員大會暨理監事會」本次大會除了將向各位會員報告協會新的組織架構、活動規劃與未來展望，也期盼能藉此機會，讓會員間彼此交流業界最新資訊，凝聚共識，為綠能產業的下一步共同努力。"
+    },
+    {
+      "id": "nmvae63k94ck",
+      "category": "event",
+      "date": "2026/6/12",
+      "image": "",
+      "title": "鋰電池材料先進分析技術研討會",
+      "summary": "這場研討會特別邀請 六位來自業界的專家擔任主講人，從不同角度切入，帶來最貼近實務的技術分享與觀點交流。你將會看到最新發表的Empyrean 實驗室級 XAS 解決方案，在自有實驗室即可進行 XANES / EXAFS 分析的技術交流 ! \n帶你看見電池材料中「看不到的細節」—— 從化學態、局部結構到材料行為，全面升級你的分析視角",
+      "body": "",
+      "link": "https://www.facebook.com/permalink.php?story_fbid=pfbid02YDwVVze7Kbi3sQSeAejFfmp6xiR7teKWXqz2YeMwo1uuQEnyagF7v2BN4tKuV5NRl&id=61568876720136&rdid=PsQrbkK9YtG9gt1d#"
+    },
+    {
+      "id": "nmvae3oodvg9",
+      "category": "event",
+      "date": "2026/6/12",
+      "image": "",
+      "title": "海峽兩岸氣候變遷與能源可持續發展論壇",
+      "summary": "論壇主題：能源安全與多能融合創新發展\n專題一：能源安全與供應鏈韌性\n專題二：智慧電網與數位化\n專題三：新能源與高效儲能技術\n專題四：碳足跡與節能降碳",
+      "body": "組織單位\n主辦單位：氣候變遷與能源可持續發展研究院\n財團法人臺灣永續能源研究基金會\n承辦單位：東莞理工學院、東莞新能源研究院\n年會時間\n2026年9月20日-22日（20日會議報到，21日大會報告，22日企業參觀考察，23日返程）\n年會地點\n東莞理工學院國際合作創新區"
+    },
+    {
+      "id": "nmvadzdgcvwk",
+      "category": "media",
+      "date": "2026/6/3",
+      "image": "",
+      "title": "資源循環推動法三讀通過  臺灣正式邁入資源循環新時代",
+      "summary": "",
+      "body": "",
+      "link": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/1630"
+    },
+    {
+      "id": "nmvadxoyb5wp",
+      "category": "event",
+      "date": "2026/6/3",
+      "image": "",
+      "title": "澳洲、臺灣與美國關鍵礦物1.5軌對話",
+      "summary": "為促進澳洲、臺灣與美國於關鍵礦物及供應鏈韌性等議題之交流與對話，澳洲辦事處（Australian Office Taipei）委託中華經濟研究院（CIER）規劃辦理「澳洲、臺灣與美國關鍵礦物1.5軌對話」（Australia – Taiwan – United States 1.5 Track Dialogue on Critical Minerals）」",
+      "body": "本次對話將聚焦經濟安全政策、關鍵礦物供應鏈韌性、技術創新與循環利用、未來供需缺口與產業發展趨勢，以及國際合作方向等議題，並邀集來自澳洲、美國及臺灣之政府、智庫與產業界代表進行交流，期盼透過跨國與跨領域對話，深化各方對可信賴供應鏈合作與政策發展之理解，進而形塑未來共同合作之契機。",
+      "link": "https://forms.office.com/r/7nFYgtfZ3v"
+    },
+    {
+      "id": "nmva7zyubnbp",
+      "category": "event",
+      "date": "2026/7/13",
+      "image": "",
+      "title": "2026半導體與AI算力永續競爭力論壇",
+      "summary": "活動名稱｜2026 半導體與AI算力永續競爭力論壇\n活動時間｜2026/7/21（二）10:00–16:30 (9:30 開放報到入場)\n活動地點｜張榮發基金會國際會議中心 801 廳",
+      "body": "",
+      "link": "https://www.accupass.com/event/2607030814321418170112"
+    },
+    {
+      "id": "nmva7z5bw2p3",
+      "category": "event",
+      "date": "2026/7/15",
+      "image": "",
+      "title": "工廠儲能全方位解決方案論壇",
+      "summary": "活動日期：2026年7月23日 (星期四)\n活動時間：09:30~17:00 (09:00 開始報到)\n活動地點：張榮發基金會 國際會議中心",
+      "body": "",
+      "link": "https://forms.gle/uw9B3psY9PRXzCLL9"
+    },
+    {
+      "id": "nmva7vc8y1hx",
+      "category": "event",
+      "date": "2026/7/21",
+      "image": "",
+      "title": "2026 APEC 智慧廢水處理與數位創新國際論壇",
+      "summary": "9/8-9/9 工研院在新竹喜來登舉辦2026 APEC 智慧廢水處理與數位創新國際論壇",
+      "body": "",
+      "link": "https://forms.gle/THTXqNPq8y3m51dy5"
+    },
+    {
+      "id": "nmva7uc8joew",
+      "category": "event",
+      "date": "2026/7/22",
+      "image": "",
+      "title": "2026台灣化學產業高峰論壇",
+      "summary": "經濟部產發署邱求慧署長、台大校長陳文章、工研院副院長李宗銘、永光化學陳偉望總經理等皆出席「2026台灣化學產業高峰論壇」，如果各位會員有興趣，皆可以報名參加！",
+      "body": "活動資訊(含議程)：https://www.twcia.org.tw/activity/activity_more?id=182a470a5df84ab086f3e0f03261c1e4",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSftpwbCpNJ9MaL1XaoJ_wCgzHIUrfYSxwqn2tAdYX2YwJHazA/viewform?usp=header"
+    },
+    {
+      "id": "nmva7tfdmnf1",
+      "category": "announce",
+      "date": "2026/7/24",
+      "image": "",
+      "title": "資源循環推動法三讀通過  臺灣正式邁入資源循環新時代",
+      "summary": "",
+      "body": "",
+      "link": "https://share.google/wfFRWuPKeluwAdpKy"
+    },
+    {
+      "id": "nmva7s9i8j8h",
+      "category": "event",
+      "date": "2026/7/30",
+      "image": "",
+      "title": "2026 AI賦能企業能源轉型論壇",
+      "summary": "",
+      "body": "一、依據中華民國全國工業總會轉知之活動訊息辦理。\n二、為協助企業因應人工智慧、綠電採購、能源成本及淨零轉型等趨勢，石門山綠資本有限公司與國立高雄大學新能源及電力發展研究中心訂於115年8月6日（星期四）下午1時至5時，假台北市進出口商業同業公會1樓演講廳（台北市中山區松江路350號）舉辦「2026 AI賦能企業能源轉型論壇」。\n三、本次活動由經濟部標準檢驗局擔任指導單位，中華民國全國工業總會、中華民國企業永續發展協會及石門山新電力股份有限公司擔任合作單位，論壇重點如下：\n（一）再生能源憑證（T-REC）制度最新發展及綠電市場趨勢。\n（二）運用數據整合企業減碳、綠電使用及市場資訊，轉化為能源策略與商業決策。\n（三）節能改善、政府資源及企業輔導案例，探討節能投資之營運效益與投資回報。\n（四）由產官學研專家進行跨界高峰對談，探討AI、能源管理、供應鏈及淨零趨勢對企業競爭力之影響。\n四、本活動採免費報名，限額150名，報名截止時間為115年7月30日下午5時，額滿將提前關閉報名。"
+    },
+    {
+      "id": "nmva7qpjldee",
+      "category": "media",
+      "date": "2026/7/31",
+      "image": "",
+      "title": "電子廢料出口全喊卡！川普出手攔截鎢、鋰電池碎片 劍指陸礦產主導權",
+      "summary": "",
+      "body": "",
+      "link": "https://www.chinatimes.com/realtimenews/20260731001231-260409?chdtv"
+    },
+    {
+      "id": "nmva7o6eleta",
+      "category": "event",
+      "date": "2026/8/4",
+      "image": "",
+      "title": "Intelligent Asia 2026系列展覽 台灣國際雷射展",
+      "summary": "從智慧製造、光電科技、半導體到電動車產業\n掌握雷射最新應用技術",
+      "body": "快速入場：https://chanchao.tw/bl6cg5\n雷射展官網：https://laserexpo.chanchao.com.tw/\n系列展入口網站：https://www.chanchao.com.tw/IntelligentAsia/\n台灣區電機電子工業同業公會：https://www.teema.org.tw/education.aspx?infoid=53031",
+      "link": "https://laserexpo.chanchao.com.tw/"
+    },
+    {
+      "id": "nmva7n85h82o",
+      "category": "event",
+      "date": "2026/8/14",
+      "image": "",
+      "title": "曲博導覽團",
+      "summary": "「曲博導覽團」是由「曲博科技教室」創辦人曲建仲（台大電機博士、知識力執行長）親自帶隊的 SEMICON Taiwan 國際半導體展 專業導覽活動。",
+      "body": "",
+      "link": "https://www.surveycake.com/s/ABLoa?utm_id=97758_v0_s00_e0_tv2_a1demo0e348c3o"
+    },
+    {
+      "id": "nmva7l3xnm5n",
+      "category": "event",
+      "date": "2026/8/10",
+      "image": "",
+      "title": "經濟部產業儲能設備設置補助說明會",
+      "summary": "協助企業掌握「經濟部產業儲能設備設置補助要點」申請機會，經濟部將於8月份偕同工研院、台灣區電機電子工業同業公會（TEEMA）及中華民國工業區廠商聯合總會（MUGA），密集辦理北(實體+線上)、中、南3+1場說明會。",
+      "body": "",
+      "link": "https://www.teema.org.tw/education.aspx?infoid=53671"
+    },
+    {
+      "id": "nmva7jmd60jx",
+      "category": "event",
+      "date": "2026/8/13",
+      "image": "",
+      "title": "2026 電池科技前沿講座",
+      "summary": "全球電池產業崛起——兩岸電池競合發展史與固態、鈉離子電池展望",
+      "body": "本次「2026 電池科技前沿講座」特別邀請具豐富電池產業第一線實務經驗的 王進龍博士*擔任主講，從產業發展歷程出發，深入解析 CATL 與中國大陸電池產業崛起的關鍵因素，並展望固態、鈉離子電池最新發展。\n同時邀請 臺灣大學化學系劉如熹終身特聘教授／儲能聯盟總召集人擔任主席，與王進龍博士進行大師對談，共同探討「下一世代電池技術發展與台灣產業機會」。",
+      "link": "https://forms.gle/2tNTrpBTSzTjdUh76"
+    },
+    {
+      "id": "nmva7iscn68a",
+      "category": "event",
+      "date": "2026/8/29",
+      "image": "",
+      "title": "2026德國紐倫堡國際發明展",
+      "summary": "2026德國紐倫堡國際發明展訂為10/31~11/02開展 \n本會將組團參加  \n參展簡章請參閱下方連結  報名截止日為9月11日止",
+      "body": "",
+      "link": "https://drive.google.com/drive/folders/1SsT9dtHM0kG5cY_FdQEtUoX0RhPPtEax?usp=sharing"
+    },
+    {
+      "id": "nmva7hqerl9x",
+      "category": "media",
+      "date": "2026/9/3",
+      "image": "",
+      "title": "建築物設置太陽光電發電設備標準",
+      "summary": "「台灣已從2026年8月1日起，要求部分類別的1,000平方公尺（約300坪）以上大型新建、增建、改建建築設置太陽光電",
+      "body": "",
+      "link": "https://www.nlma.gov.tw/ch/legislation/regsearch/7260?utm_source=chatgpt.com"
+    },
+    {
+      "id": "nmva7ankrjbv",
+      "category": "event",
+      "date": "2026/9/3",
+      "image": "",
+      "title": "產業園區智慧科技加值創新跨域推動計畫",
+      "summary": "「產業園區智慧科技加值創新跨域推動計畫」由經濟部產業園區管理局委託財團法人金屬工業研究發展中心執行的重點專案",
+      "body": "\n計畫核心目的\n• 導入學研資源：協助產業園區連結周邊大學校院的研發、技術與人才資源，建構長期產學合作關係。\n• 推動產業升級：輔導園區企業導入智慧製造、數位轉型及創新營運模式，強化整體產業競爭力。",
+      "link": "https://www.acad.ntnu.edu.tw/zh_tw/ord/1news/1102/-%E7%B6%93%E6%BF%9F%E9%83%A8%E7%94%A2%E6%A5%AD%E5%9C%92%E5%8D%80%E7%AE%A1%E7%90%86%E5%B1%80-115%E5%B9%B4%E5%BA%A6-%E7%94%A2%E6%A5%AD%E5%9C%92%E5%8D%80%E6%99%BA%E6%85%A7%E7%A7%91%E6%8A%80%E5%8A%A0%E5%80%BC%E5%89%B5%E6%96%B0%E8%B7%A8%E5%9F%9F%E6%8E%A8%E5%8B%95%E8%A8%88%E7%95%AB-%E5%AD%B8%E7%A0%94%E5%8D%94%E5%8A%A9%E7%94%A2%E6%A5%AD%E5%9C%92%E5%8D%80%E5%90%88%E4%BD%9C%E5%B0%88%E6%A1%88-39109295"
+    },
+    {
+      "id": "nmva790xwzxt",
+      "category": "announce",
+      "date": "2026/9/8",
+      "image": "",
+      "title": "新北市政府經濟發展局EMBA管理學院",
+      "summary": "115年度「EMBA管理學院」課程資訊\n• 核心主題：邀請重量級企業領袖與科技巨頭（如王雪紅、童子賢、劉揚偉等人）親自授課，解析供應鏈管理、AI應用、ESG、能源轉型與經營實務。\n• 上課時間：115年9月11日、9月18日、10月2日等。",
+      "body": "",
+      "link": "https://wedid.ntpc.gov.tw/Governance/Detail/3adMvGQnLmx1"
+    },
+    {
+      "id": "nmva77by3nn7",
+      "category": "event",
+      "date": "2026/9/9",
+      "image": "",
+      "title": "經濟部能源署業界能專計畫",
+      "summary": "經濟部能源署為鼓勵企業投入能源科技創新研發、系統整合與示範驗證，推動「經濟部能源署業界能專計畫」",
+      "body": "申請重點摘要\n• 補助目的：鼓勵企業開發能源領域前瞻技術、創新應用、關鍵技術研發及系統整合。\n• 申請資格：\n\t• 國內依公司法登記成立之公司。\n\t• 非銀行拒絕往來戶，且公司淨值為正值。\n\t• 不得為陸資來臺投資事業。",
+      "link": "https://www.moea.gov.tw/Mns/populace/Apply/Apply.aspx?menu_id=32814&apply_id=60"
+    },
+    {
+      "id": "nmva62crjyq2",
+      "category": "event",
+      "date": "2026/9/17",
+      "image": "",
+      "title": "第三屆2026桃園市永續能源論壇",
+      "summary": "桃園市政府籌辦第三屆「2026桃園市永續能源論壇」，今年主題是「電力就是競爭力」，特別聚焦用電大戶與製造業最關心的能源議題",
+      "body": "第三屆2026桃園市永續能源論壇｜10/2桃園會展中心\n\n桃園市政府籌辦第三屆「2026桃園市永續能源論壇」，今年主題是「電力就是競爭力」，特別聚焦用電大戶與製造業最關心的能源議題，包括SMR、綠氫、SOFC、BIPV、儲能、VPP、AI能源管理，以及國際淨零與綠色訂單。\n \n對企業來說，未來不只是節電，更重要的是穩定供電、能源成本、綠電取得與新能源技術布局。\n10/2（五）13:00–17:00\n桃園會展中心\n如果公司目前正在評估節能、儲能、綠電、能源管理或未來電力布局，很歡迎您來參加，也歡迎轉傳給廠務、能源、ESG、永續或管理相關同仁。",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSdYwBjFj9_laUTVoFex5FlSnuZWQVy55fRYMG_CUAgaSVtvzA/viewform?usp=header"
+    },
+    {
+      "id": "nmva469wtsuy",
+      "category": "media",
+      "date": "2026/6/6",
+      "image": "",
+      "title": "第22屆台灣金根獎",
+      "summary": "第22屆台灣金根獎頒獎典禮暨AI科技論壇",
+      "body": "「台灣金根獎」由台灣產業科技推動協會主辦，旨在表彰根留台灣且具產業競爭力的企業典範，鼓勵業界持續深化研發能量，促進產業升級與創新發展，進一步強化台灣在全球科技供應鏈中的關鍵地位，彰顯「深根台灣、布局全球」的核心精神。",
+      "link": "https://www.mofa.gov.tw/News_Content.aspx?n=96&s=122440"
+    },
+    {
+      "id": "nmva3z8dx00w",
+      "category": "event",
+      "date": "2026/9/29",
+      "image": "",
+      "title": "產業儲能發展與多元應用研討會",
+      "summary": "主辦單位：綠能科技產業推動中心、財團法人資訊工業策進會科技法律研究所\n指導單位：經濟部能源署\n執行單位：WindTAIWAN\n時間：2026年10月05日（星期一）13:00~17:00\n活動對象：沙崙智慧綠能科學城進駐廠商及相關產業業者",
+      "body": "活動目的：\n臺灣再生能源併網規模持續增加，電力系統對調度彈性、供電韌性及用電管理之需求亦日益提升。儲能除可支援電力系統調度，亦逐步延伸至產業用戶之尖離峰用電調節、契約容量管理、再生能源整合及智慧能源管理等應用；隨工商業儲能應用逐步發展，企業對儲能系統安全、設備標準、案場驗證及建置運轉等實務資訊之需求亦日益增加。\n本次活動以「產業儲能發展與多元應用」為主軸，邀集政府、檢測驗證及儲能相關產業代表，分別就儲能政策發展、儲能安全標準與案場驗證、工商業表後儲能建置及智慧能源管理等面向進行分享，透過政策制度說明與實際場域經驗交流，協助沙崙智慧綠能科學城進駐廠商及相關業者掌握儲能政策、安全標準、市場與技術應用趨勢，並了解儲能於企業用電、再生能源整合及能源管理之多元應用機會。",
+      "link": "https://ievents.iii.org.tw/EventS.aspx?t=0&id=3533"
+    },
+    {
+      "id": "nmva3vv8t6jw",
+      "category": "media",
+      "date": "2026/10/2",
+      "image": "",
+      "title": "邁向2050淨零！彭啓明部宣示台灣2030年目標：移除100萬噸生物炭碳",
+      "summary": "環境部長彭啓明，應邀接受歐洲碳移除專業Podcast節目《The Carbon Removal Scoop》特別節目專訪，向國際社會闡述台灣的碳移除戰略。",
+      "body": "https://cnews.com.tw/250261002a05/\nhttps://newtalk.tw/news/view/2026-10-02/1063234",
+      "link": "https://www.cna.com.tw/news/ahel/202610020154.aspx"
+    },
+    {
+      "id": "nmva3erqjjea",
+      "category": "event",
+      "date": "2026/10/5",
+      "image": "",
+      "title": "台灣國際智慧能源週與台灣國際淨零永續展",
+      "summary": "2026 台灣國際淨零永續展與台灣國際智慧能源週\n2026 Net-Zero Taiwan & Energy Taiwan ",
+      "body": "一、主辦單位\nTAITRA 中華民國對外貿易發展協會\nGESA 綠能暨永續發展聯盟(SEMI 旗下產業聯盟之一)      \n二、展覽日期與時間\n2026年10月14日至10月15日：上午10時至下午5時\n2026年10月16日：上午10時至下午4時\n三、展出區域\n台北南港展覽1館 1F & 4F\n四、展區規劃\n台灣國際淨零永續展\n台灣國際太陽光電展\n台灣國際風力能源展\n台灣國際智慧儲能應用展\n台灣國際多元創能展",
+      "link": "https://www.energytaiwan.com.tw/zh-tw/index.html"
+    },
+    {
+      "id": "nmva3dpnvull",
+      "category": "media",
+      "date": "2026/10/9",
+      "image": "",
+      "title": "玉山ESG永續倡議行動",
+      "summary": "1.公私協力加速雙軸轉型 提升臺灣產業競爭力\n2.金融挺企業永續轉型 千億基金助中小企業升級\n3.防企業ESG淪作文比賽 彭啟明：年底推防「漂綠」指引",
+      "body": "https://ec.ltn.com.tw/article/breakingnews/5599608\nhttps://www.chinatimes.com/realtimenews/20261008002499-260405",
+      "link": "https://www.ydn.com.tw/tw/News/ugC_News_Detail.aspx?ID=647366"
+    },
+    {
+      "id": "nmva35nzj7ch",
+      "category": "event",
+      "date": "2026/10/13",
+      "image": "",
+      "title": "中東科威特發明展",
+      "summary": "唯一有高額獎金，由科威特皇室招待發明人5晚及商務簽證。\n期待大家為台爭光，勇奪獎牌及獎金！",
+      "body": "2027中東科威特國際發明展  訂為1月31日~2月3日開展 \n中華台北著作權人協會/台灣發明協會將繼續組團參加，為發明界服務 \n2027中東科威特國際發明展，敬盼與您同行 \n參展簡章請參閱下方連結，報名截止日為2026.11.20.止，感謝您的參與\n有任何問題歡迎洽詢中華台北著作權人協會/台灣發明協會，亦歡迎加入官方LINE：@tia1972",
+      "link": "https://drive.google.com/drive/folders/15iMtdAi2f7DOt4T25ExW0JwX6jE-d1ce?usp=sharing"
+    },
+    {
+      "id": "nmva2qx6uiec",
+      "category": "media",
+      "date": "2026/10/15",
+      "image": "",
+      "title": "總統府新聞",
+      "summary": "出席國際淨零永續展暨智慧能源週\n總統：推動產業綠色轉型、提升能源韌性，打造臺灣下一階段成長動力",
+      "body": "",
+      "link": "https://www.president.gov.tw/News/40424"
+    }
+  ],
+  "albums": [
+    {
+      "id": "a1",
+      "category": "event",
+      "title": "姜太公道場桐花季開鑼儀式",
+      "summary": "",
+      "cover": "images/album1.jpg",
+      "photos": [
+        {
+          "id": "a1p1",
+          "src": "images/album1.jpg",
+          "caption": "開鑼儀式"
+        }
+      ],
+      "date": "2025/3/30"
+    },
+    {
+      "id": "a2",
+      "category": "event",
+      "title": "白沙屯媽祖善行天下活動",
+      "summary": "",
+      "cover": "images/album2.jpg",
+      "photos": [
+        {
+          "id": "a2p1",
+          "src": "images/album2.jpg",
+          "caption": "活動現場"
+        }
+      ],
+      "date": "2025/4/30"
+    },
+    {
+      "id": "a3",
+      "category": "talk",
+      "title": "淨零永續ESG整體解決方案",
+      "summary": "",
+      "cover": "images/album3.jpg",
+      "photos": [
+        {
+          "id": "a3p1",
+          "src": "images/album3.jpg",
+          "caption": "論壇現場"
+        }
+      ],
+      "date": "2025/5/8"
+    },
+    {
+      "id": "a4",
+      "category": "affairs",
+      "title": "長官指導",
+      "summary": "歡迎長官到台北市綠能協會指導",
+      "cover": "images/album4.jpg",
+      "photos": [
+        {
+          "id": "a4p1",
+          "src": "images/album4.jpg",
+          "caption": "會務指導"
+        }
+      ],
+      "date": "2025/6/10"
+    },
+    {
+      "id": "a5",
+      "category": "event",
+      "title": "快樂聯播網30週年活動",
+      "summary": "",
+      "cover": "images/album5.jpg",
+      "photos": [
+        {
+          "id": "a5p1",
+          "src": "images/album5.jpg",
+          "caption": "30週年活動"
+        }
+      ],
+      "date": "2025/6/14"
+    },
+    {
+      "id": "a6",
+      "category": "event",
+      "title": "南港展覽館二館小樹傳愛",
+      "summary": "環球境地 × 台北市綠能協會聯合展覽",
+      "cover": "images/album6.jpg",
+      "photos": [
+        {
+          "id": "a6p1",
+          "src": "images/album6.jpg",
+          "caption": "聯合展覽"
+        }
+      ],
+      "date": "2025/8/2"
+    },
+    {
+      "id": "amva4rcgpj06",
+      "category": "event",
+      "date": "2025/12/19",
+      "title": "參加環保工廠開幕",
+      "summary": "",
+      "cover": "uploads/mva4situ-f79e7ce6.jpg",
+      "photos": [
+        {
+          "id": "pmva4se6yqyp",
+          "src": "uploads/mva4se6o-0a567e65.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva4siuxpj1",
+          "src": "uploads/mva4situ-f79e7ce6.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva4rdmrcbj",
+      "category": "event",
+      "date": "2025/11/12",
+      "title": "蔬食愛地球全球聯盟",
+      "summary": "",
+      "cover": "uploads/mva4wpjq-f63dacf7.jpg",
+      "photos": [
+        {
+          "id": "pmva4wpjkl2q",
+          "src": "uploads/mva4wpj8-abeb389a.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva4wpju6lw",
+          "src": "uploads/mva4wpjq-f63dacf7.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva4re3i0ry",
+      "category": "affairs",
+      "date": "2025/12/5",
+      "title": "以企業影響力助力健康台灣",
+      "summary": "",
+      "cover": "uploads/mva4vul4-39b4dfe1.jpg",
+      "photos": [
+        {
+          "id": "pmva4vula8lh",
+          "src": "uploads/mva4vul4-39b4dfe1.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva4vullqt1",
+          "src": "uploads/mva4vule-c3b7f627.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva58mqrl0w",
+      "category": "event",
+      "date": "2025/11/19",
+      "title": "與故宮談環保文創交流文創",
+      "summary": "",
+      "cover": "uploads/mva59bd9-56b93f9c.jpg",
+      "photos": [
+        {
+          "id": "pmva59bdh9xe",
+          "src": "uploads/mva59bd9-56b93f9c.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 47.2,
+      "coverY": 92.4,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva5aa2mwjz",
+      "category": "event",
+      "date": "2025/11/15",
+      "title": "慈林植樹活動",
+      "summary": "",
+      "cover": "uploads/mva5atyx-f132b420.jpg",
+      "photos": [
+        {
+          "id": "pmva5atz989h",
+          "src": "uploads/mva5atyx-f132b420.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva5azouf5t",
+      "category": "event",
+      "date": "2025/10/1",
+      "title": "拜訪寵物協會理事長做交流",
+      "summary": "",
+      "cover": "uploads/mva5bi5b-350d2e09.jpg",
+      "photos": [
+        {
+          "id": "pmva5bi5gmeb",
+          "src": "uploads/mva5bi5b-350d2e09.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 44.9,
+      "coverY": 25.9,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva5ci5a5hn",
+      "category": "event",
+      "date": "2025/7/4",
+      "title": "連淨上市公司來訪討論ESG 報告",
+      "summary": "",
+      "cover": "uploads/mva5fhqf-b1601313.jpg",
+      "photos": [
+        {
+          "id": "pmva5fhqmll9",
+          "src": "uploads/mva5fhqf-b1601313.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva5cik1h2o",
+      "category": "event",
+      "date": "2025/9/10",
+      "title": "皮方綠色健康倉研發歷程",
+      "summary": "",
+      "cover": "uploads/mva5ek9r-ba92b362.jpg",
+      "photos": [
+        {
+          "id": "pmva5ek9pc0f",
+          "src": "uploads/mva5ek95-fbb9714e.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5eka1cbv",
+          "src": "uploads/mva5ek9r-ba92b362.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ekaal4t",
+          "src": "uploads/mva5eka3-37d719a2.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ekam856",
+          "src": "uploads/mva5ekac-ff220369.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50.5,
+      "coverY": 38.6,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva5ciuzfjp",
+      "category": "event",
+      "date": "2025/9/13",
+      "title": "免疫健康長城大會",
+      "summary": "",
+      "cover": "uploads/mva5dyj2-480a9c37.jpg",
+      "photos": [
+        {
+          "id": "pmva5dyj6hbi",
+          "src": "uploads/mva5dyj2-480a9c37.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5dyk4xsj",
+          "src": "uploads/mva5dyjb-9e700106.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amva5cj6jrpq",
+      "category": "event",
+      "date": "2025/9/21",
+      "title": "陽明山姜太公道場成立",
+      "summary": "",
+      "cover": "uploads/mva5cz93-6c53b496.jpg",
+      "photos": [
+        {
+          "id": "pmva5cz9oex2",
+          "src": "uploads/mva5cz93-6c53b496.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5cza5187",
+          "src": "uploads/mva5cz9s-e470612b.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5czb47uh",
+          "src": "uploads/mva5cza8-857b8151.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 49.4,
+      "coverY": 73.3,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva5jhxm75v",
+      "category": "event",
+      "date": "2026/10/14",
+      "title": "沈世宏博士與許景翔秘書長ㄧ同前往北投焚化廠",
+      "summary": "今天台北市綠能協會最高顧問（前環保署長）沈世宏博士與許景翔秘書長ㄧ同前往北投焚化廠。\n\n沈前署長擔任台北市環保局長五年、擔任環保署長五年，對綠色環保的推動是不遺餘力。下次會員大會，再邀請沈前署長、科技網紅曲博來跟會員們分享新興產業主題！",
+      "cover": "uploads/mva5ktu7-34cf836a.jpg",
+      "photos": [
+        {
+          "id": "pmva5ktu2rpl",
+          "src": "uploads/mva5kttr-2dd02c8f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ktud4j2",
+          "src": "uploads/mva5ktu7-34cf836a.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ktuo4ki",
+          "src": "uploads/mva5ktui-4c1823f9.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ktuxpj4",
+          "src": "uploads/mva5ktut-5c5bed17.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5ktv3okf",
+          "src": "uploads/mva5ktuz-1422ff4f.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 59.9,
+      "coverY": 68.5,
+      "coverZoom": 2.55
+    },
+    {
+      "id": "amva5mug2q69",
+      "category": "event",
+      "date": "2026/9/22",
+      "title": "第22屆「台灣金根獎」獲獎企業",
+      "summary": "本會秘書長許景翔創辦的優勝奈米科技股份有限公司，榮獲第22屆「台灣金根獎」中小企業組肯定，並於2026年9月與其他13家獲獎企業一同前往總統府接受總統接見。",
+      "cover": "uploads/mva5p33p-c03fbd5f.jpg",
+      "photos": [
+        {
+          "id": "pmva5p33igbn",
+          "src": "uploads/mva5p33c-3baeb72d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva5p33um25",
+          "src": "uploads/mva5p33p-c03fbd5f.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 51.6,
+      "coverY": 43.3,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva5z4u4oes",
+      "date": "2026/9/20",
+      "title": "第二十二屆海峽兩岸氣候變遷與能源可持續發展論壇",
+      "summary": "",
+      "cover": "uploads/mva619na-0f6ece03.jpg",
+      "photos": [
+        {
+          "id": "pmva619lbwgt",
+          "src": "uploads/mva619l8-50901533.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619lrbon",
+          "src": "uploads/mva619ln-3690669f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619mbrp9",
+          "src": "uploads/mva619lw-8e13b5cd.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619mk4gd",
+          "src": "uploads/mva619mg-1fcb4ddf.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619msk2p",
+          "src": "uploads/mva619mn-49c2c95b.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619n15jy",
+          "src": "uploads/mva619my-b864fe16.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619n74su",
+          "src": "uploads/mva619n4-e9a8a9be.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619nel8q",
+          "src": "uploads/mva619na-0f6ece03.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva619njrph",
+          "src": "uploads/mva619ng-91f7d837.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50,
+      "coverY": 50,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva675rn0xy",
+      "date": "2026/9/16",
+      "title": "全台第一家特斯拉傑出安裝商獎",
+      "summary": "本會產業政策委員會委員長黃尉桓創辦公司：威智儲能科技股份有限公司\n榮獲全台第一家特斯拉傑出安裝商獎",
+      "cover": "uploads/mva6d66z-752f1b97.jpg",
+      "photos": [
+        {
+          "id": "pmva6d66mvgn",
+          "src": "uploads/mva6d66i-bd7787b8.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva6d66w47y",
+          "src": "uploads/mva6d66t-0b282b9d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva6d671453",
+          "src": "uploads/mva6d66z-752f1b97.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50,
+      "coverY": 50,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva7drob00f",
+      "date": "2026/9/2",
+      "title": "SEMICON Taiwan 國際半導體展",
+      "summary": "• 展期日期：2026年9月2日 – 9月4日\n• 展覽地點：台北南港展覽館 1館、2館\n• 主要焦點：AI晶片、先進封裝（3DIC、Chiplet）、矽光子（Silicon Photonics）、化合物半導體、高科技智慧製造與永續綠色製造等。",
+      "cover": "uploads/mva7fjnw-8954af11.jpg",
+      "photos": [
+        {
+          "id": "pmva7fjn5ndh",
+          "src": "uploads/mva7fjmy-6844ad7d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva7fjnftpg",
+          "src": "uploads/mva7fjn8-b9e74e45.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva7fjnokvp",
+          "src": "uploads/mva7fjnj-34b6373d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva7fjntsml",
+          "src": "uploads/mva7fjnq-24a00440.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva7fjnzzor",
+          "src": "uploads/mva7fjnw-8954af11.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50.2,
+      "coverY": 75.1,
+      "coverZoom": 1
+    },
+    {
+      "id": "amva7w8zfjpd",
+      "date": "2026/7/15",
+      "title": "籌設亞洲資產管理中心 台南專區 產業座談交流會",
+      "summary": "恭喜台北市綠能協會陳修成博士（右二）進行台日硼中子捕獲技術交流",
+      "cover": "uploads/mva7yhtb-b23d2be7.jpg",
+      "photos": [
+        {
+          "id": "pmva7yhtg7qq",
+          "src": "uploads/mva7yhtb-b23d2be7.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 47.1,
+      "coverY": 23.3,
+      "coverZoom": 1.15
+    },
+    {
+      "id": "amva8857pukf",
+      "date": "2026/6/30",
+      "title": "2026台北市綠能協會-會員大會",
+      "summary": "",
+      "cover": "uploads/mva8a326-01f793bc.jpg",
+      "photos": [
+        {
+          "id": "pmva8a2txu5j",
+          "src": "uploads/mva8a2ts-e2d6ee4f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2u7f5z",
+          "src": "uploads/mva8a2u2-1727a71b.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2ug6pb",
+          "src": "uploads/mva8a2uc-7af308ba.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2umgkh",
+          "src": "uploads/mva8a2uj-898a0744.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2us6rn",
+          "src": "uploads/mva8a2up-7c4d8cea.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2uznxd",
+          "src": "uploads/mva8a2uv-b3e7cd5f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2v63gm",
+          "src": "uploads/mva8a2v2-de26ca06.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2ve94l",
+          "src": "uploads/mva8a2v9-63a9a0db.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2vkdy2",
+          "src": "uploads/mva8a2vh-97c4f2e1.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2vqrbd",
+          "src": "uploads/mva8a2vn-424995c5.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2vy3ob",
+          "src": "uploads/mva8a2vv-83082744.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2w7bqa",
+          "src": "uploads/mva8a2w2-ac2f62bd.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2wd95d",
+          "src": "uploads/mva8a2wa-e2b2aff4.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2wil0m",
+          "src": "uploads/mva8a2wf-99335d98.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2wpx8h",
+          "src": "uploads/mva8a2wl-552eb880.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2wy4le",
+          "src": "uploads/mva8a2wt-f5c27578.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2x85g5",
+          "src": "uploads/mva8a2x2-5cc54074.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2xel39",
+          "src": "uploads/mva8a2xb-f0e5c495.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2xkrl0",
+          "src": "uploads/mva8a2xg-8c92558e.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2xrhk8",
+          "src": "uploads/mva8a2xm-13512955.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2xz43i",
+          "src": "uploads/mva8a2xu-4bbd62eb.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2y6wwk",
+          "src": "uploads/mva8a2y2-0f1fd6e1.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2ycgok",
+          "src": "uploads/mva8a2y8-96d28d8c.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2yhtxy",
+          "src": "uploads/mva8a2ye-9bacf390.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2ynetr",
+          "src": "uploads/mva8a2yi-66f137f3.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2yt01h",
+          "src": "uploads/mva8a2yq-1d571633.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2yzub9",
+          "src": "uploads/mva8a2yv-5f44591e.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2z4myn",
+          "src": "uploads/mva8a2z1-5bec9039.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2z93vz",
+          "src": "uploads/mva8a2z7-9c0541ee.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2ze2et",
+          "src": "uploads/mva8a2zc-39262d66.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2zkto6",
+          "src": "uploads/mva8a2zf-93b3c8b4.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2zrbfd",
+          "src": "uploads/mva8a2zn-6fc1bc39.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a2zxgff",
+          "src": "uploads/mva8a2zt-310075be.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a302lio",
+          "src": "uploads/mva8a2zz-2a791ce7.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a307ysq",
+          "src": "uploads/mva8a304-71c6a1a3.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a30csqt",
+          "src": "uploads/mva8a309-4961bfaf.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a30i9jj",
+          "src": "uploads/mva8a30e-a9b5b3ba.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a30ocr2",
+          "src": "uploads/mva8a30l-cf72ae79.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a30uazx",
+          "src": "uploads/mva8a30r-84fbad09.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a30z45r",
+          "src": "uploads/mva8a30x-0fc91618.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a314xny",
+          "src": "uploads/mva8a311-f51d97f5.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a3185fq",
+          "src": "uploads/mva8a315-99230f8f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a31ep0v",
+          "src": "uploads/mva8a31a-78138a9d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a31kig5",
+          "src": "uploads/mva8a31h-4f36595d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a31rrlu",
+          "src": "uploads/mva8a31o-83c91d4b.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a31xxpc",
+          "src": "uploads/mva8a31u-16c2b0c7.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a324ne7",
+          "src": "uploads/mva8a31z-cd8e7d56.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a32ik8s",
+          "src": "uploads/mva8a326-01f793bc.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a32s5i6",
+          "src": "uploads/mva8a32l-36c6bcb8.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a330q0r",
+          "src": "uploads/mva8a32v-9975201e.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a33to3k",
+          "src": "uploads/mva8a332-6f53b8d4.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a34119r",
+          "src": "uploads/mva8a33x-4a63487e.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a349pmb",
+          "src": "uploads/mva8a342-a6d2c76f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a34os6e",
+          "src": "uploads/mva8a34b-c07be09b.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a34uvvt",
+          "src": "uploads/mva8a34q-5471f2d3.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a35kklf",
+          "src": "uploads/mva8a34x-49dd9b92.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a35rv60",
+          "src": "uploads/mva8a35n-7dd3a099.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a36e0a0",
+          "src": "uploads/mva8a35t-2c69d1b8.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a36ng72",
+          "src": "uploads/mva8a36i-9147df15.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a36uj5j",
+          "src": "uploads/mva8a36q-65f3a18f.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a37308z",
+          "src": "uploads/mva8a36y-aed1b561.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a37bge6",
+          "src": "uploads/mva8a377-3fef869d.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a387q1u",
+          "src": "uploads/mva8a37e-b832e975.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a38eegs",
+          "src": "uploads/mva8a38a-7a865b76.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a38lwdx",
+          "src": "uploads/mva8a38h-fb7d59dd.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a38qux8",
+          "src": "uploads/mva8a38m-10ed696a.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a38z94z",
+          "src": "uploads/mva8a38s-474e5a98.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a398l1s",
+          "src": "uploads/mva8a393-12055666.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmva8a39gnfc",
+          "src": "uploads/mva8a39b-a575e055.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50,
+      "coverY": 50,
+      "coverZoom": 1.15
+    },
+    {
+      "id": "amvadss7uqrl",
+      "date": "2026/6/3",
+      "title": "企業參訪—曉鹿鳴樓",
+      "summary": "台北市綠能協會高琦理事長、許景翔秘書長拜訪台灣第一家碳中和餐廳「曉鹿鳴樓」曾隱舜董事長。\n曾董事長對餐廳的綠電、AI送餐、AI防災、廚餘處理跟高理事長進行交流。\n曾董事長、高理事長、許秘書長皆在ESG推行多年，相談甚歡，期待在台北市綠能協會的推動下共同打造綠色、綠能、乾淨永續的環境！ ",
+      "cover": "uploads/mvadukuo-a26d9646.jpg",
+      "photos": [
+        {
+          "id": "pmvaduu0d2hx",
+          "src": "uploads/mvaduu03-1b368994.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 50,
+      "coverY": 50,
+      "coverZoom": 1
+    },
+    {
+      "id": "amvadvq9zr92",
+      "date": "2026/6/5",
+      "title": "恭喜台北市綠能協會秘書長榮獲台灣金根獎",
+      "summary": "22屆台灣金根獎頒獎典禮暨AI科技論壇在台大醫院國際會議中心舉辦，由台灣產業科技推動協會（TTA)涂醒哲理事長、外交部林佳龍部長共同頒獎給優勝奈米科技股份有限公司董事長許景翔（暨台北市綠能協會秘書長）。\n\n涂理事長致詞表示，報名第22屆台灣金根獎有81家廠商，經評審後入圍37家企業，最後經過激烈審查後確定13家優秀企業獲選。這代表這13家企業「深根台灣、立足全球」，恭喜得獎企業！",
+      "cover": "uploads/mvadwhcc-6d963dd8.jpg",
+      "photos": [
+        {
+          "id": "pmvadwhcoy59",
+          "src": "uploads/mvadwhcc-6d963dd8.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "id": "amvae1hukk6i",
+      "date": "2026/6/2",
+      "title": "2025年末總結暨2026年規劃會議",
+      "summary": "",
+      "cover": "uploads/mvae2b2q-b48d3f2c.jpg",
+      "photos": [
+        {
+          "id": "pmvae2b2i8ds",
+          "src": "uploads/mvae2b22-f6c681be.jpg",
+          "caption": ""
+        },
+        {
+          "id": "pmvae2b32iv1",
+          "src": "uploads/mvae2b2q-b48d3f2c.jpg",
+          "caption": ""
+        }
+      ],
+      "coverX": 21.5,
+      "coverY": 49.7,
+      "coverZoom": 1.15
+    }
+  ]
+}

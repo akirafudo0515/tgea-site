@@ -1,0 +1,14 @@
+{
+  "name": "tgea-site",
+  "private": true,
+  "version": "1.0.0",
+  "description": "台北市綠能協會網站與後台",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.2"
+  }
+}
